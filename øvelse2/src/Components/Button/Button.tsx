@@ -1,5 +1,5 @@
-
+import style from './Button.module.scss'
 export const Button = () => {
 
-    return <button className="button"> Click me!</button>;
+    return <button className={style.knap}> Click me!</button>; 
 }
