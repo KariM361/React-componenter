@@ -1,2 +1,0 @@
-# React-componenter
-React componenter
